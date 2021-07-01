@@ -1,0 +1,31 @@
+body {
+  background-color: #4b778d !important;
+}
+
+.container {
+  margin: 0px;
+  width: 100%;
+}
+.header {
+  width: 100%;
+  height: 50px;
+  background-color: #28b5b5;
+}
+
+.list{
+  margin: auto;
+  max-width: 576px !important;
+ 
+}
+.label{
+
+  height: 50px;
+  background-color: #d2e69c;
+  align-items: center;
+}
+.data{
+  align-items: center;
+  border-top: solid 1px;
+  height: 50px;
+  background-color: #8fd9a8;
+}

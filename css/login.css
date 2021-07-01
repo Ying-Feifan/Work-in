@@ -1,0 +1,40 @@
+body {
+  background-color: #4b778d !important;
+}
+@media (max-width: 576px) {
+  main {
+    margin: auto;
+    max-width: 300px;
+  }
+}
+@media (min-width: 576px) {
+    main {
+      margin: auto;
+      max-width: 500px;
+    }
+  }
+hr {
+  margin: 0% !important;
+}
+.logo {
+  margin-top: 150px;
+}
+.login-box {
+  background-color: #8fd9a8;
+  border-radius: 30px;
+}
+.form-control {
+  background-color: #8fd9a8 !important;
+  border: none !important;
+}
+.btn {
+  width: 170px;
+  background-color: #28b5b5 !important ;
+  border: none !important;
+  border-radius: 25px !important;
+  color: black !important;
+}
+
+.footer {
+  color: white;
+}
